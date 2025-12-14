@@ -112,7 +112,7 @@ If a plane with Flower of the Atom is the target of an interception, it may not 
             <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">32&quot;</characteristic>
             <characteristic name="M" typeId="fdf7-4209-ca56-2d78">24&quot;</characteristic>
             <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">4</characteristic>
-            <characteristic name="T" typeId="38c4-d745-a54c-15fb">4/4/3</characteristic>
+            <characteristic name="T" typeId="38c4-d745-a54c-15fb">4/3/3</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663">3</characteristic>
           </characteristics>
         </profile>
@@ -164,7 +164,7 @@ If a plane with Flower of the Atom is the target of an interception, it may not 
             <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">32&quot;</characteristic>
             <characteristic name="M" typeId="fdf7-4209-ca56-2d78">8&quot;</characteristic>
             <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">4</characteristic>
-            <characteristic name="T" typeId="38c4-d745-a54c-15fb">16/8/6</characteristic>
+            <characteristic name="T" typeId="38c4-d745-a54c-15fb">16/7/5</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663">4</characteristic>
           </characteristics>
         </profile>
@@ -343,10 +343,10 @@ If a plane with Flower of the Atom is the target of an interception, it may not 
         <profile name="Suppression Team" typeId="01c2-7972-ee1c-9702" typeName="Unit" hidden="false" id="e835-0476-2179-c7bb">
           <characteristics>
             <characteristic name="H" typeId="dec7-cb61-5dcb-432e">1</characteristic>
-            <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">16&quot;</characteristic>
+            <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">24&quot;</characteristic>
             <characteristic name="M" typeId="fdf7-4209-ca56-2d78">4&quot;</characteristic>
             <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">2</characteristic>
-            <characteristic name="T" typeId="38c4-d745-a54c-15fb">1/1-/1-</characteristic>
+            <characteristic name="T" typeId="38c4-d745-a54c-15fb">1-/1-/1-</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
           </characteristics>
         </profile>
@@ -392,7 +392,7 @@ If a plane with Flower of the Atom is the target of an interception, it may not 
             <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">16&quot;</characteristic>
             <characteristic name="M" typeId="fdf7-4209-ca56-2d78">4&quot;</characteristic>
             <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">2</characteristic>
-            <characteristic name="T" typeId="38c4-d745-a54c-15fb">1-/1-/1-</characteristic>
+            <characteristic name="T" typeId="38c4-d745-a54c-15fb">1/1-/1-</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
           </characteristics>
         </profile>
@@ -464,7 +464,7 @@ If a plane with Flower of the Atom is the target of an interception, it may not 
             <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">16&quot;</characteristic>
             <characteristic name="M" typeId="fdf7-4209-ca56-2d78">4&quot;</characteristic>
             <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">2</characteristic>
-            <characteristic name="T" typeId="38c4-d745-a54c-15fb">1/1+/1+</characteristic>
+            <characteristic name="T" typeId="38c4-d745-a54c-15fb">2/1+/1+</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
           </characteristics>
         </profile>
@@ -685,8 +685,8 @@ If a plane with Flower of the Atom is the target of an interception, it may not 
         <profile name="Nuclear Weapons Team" typeId="01c2-7972-ee1c-9702" typeName="Unit" hidden="false" id="9e0b-a69a-b9ff-eadd">
           <characteristics>
             <characteristic name="H" typeId="dec7-cb61-5dcb-432e">1</characteristic>
-            <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">16&quot;</characteristic>
-            <characteristic name="M" typeId="fdf7-4209-ca56-2d78">3&quot;</characteristic>
+            <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">24&quot;</characteristic>
+            <characteristic name="M" typeId="fdf7-4209-ca56-2d78">4&quot;</characteristic>
             <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">4</characteristic>
             <characteristic name="T" typeId="38c4-d745-a54c-15fb">1-/1-/1-</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
@@ -755,9 +755,9 @@ If a plane with Flower of the Atom is the target of an interception, it may not 
         <profile name="Towed Personnel Carrier" typeId="01c2-7972-ee1c-9702" typeName="Unit" hidden="false" id="b8cf-2088-8db9-4ed9">
           <characteristics>
             <characteristic name="H" typeId="dec7-cb61-5dcb-432e">2</characteristic>
-            <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">0&quot;</characteristic>
+            <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">8&quot;</characteristic>
             <characteristic name="M" typeId="fdf7-4209-ca56-2d78">0&quot;</characteristic>
-            <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">*</characteristic>
+            <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">1</characteristic>
             <characteristic name="T" typeId="38c4-d745-a54c-15fb">3/3/3</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
           </characteristics>
@@ -1020,7 +1020,7 @@ If a plane with Flower of the Atom is the target of an interception, it may not 
             <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">32&quot;</characteristic>
             <characteristic name="M" typeId="fdf7-4209-ca56-2d78">10&quot;</characteristic>
             <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">2</characteristic>
-            <characteristic name="T" typeId="38c4-d745-a54c-15fb">12/8/6</characteristic>
+            <characteristic name="T" typeId="38c4-d745-a54c-15fb">12/6/5</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
           </characteristics>
         </profile>
