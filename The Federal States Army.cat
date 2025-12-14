@@ -771,7 +771,7 @@
             <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">32&quot;</characteristic>
             <characteristic name="M" typeId="fdf7-4209-ca56-2d78">8&quot;</characteristic>
             <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">2</characteristic>
-            <characteristic name="T" typeId="38c4-d745-a54c-15fb">14/8/6</characteristic>
+            <characteristic name="T" typeId="38c4-d745-a54c-15fb">14/7/5</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
           </characteristics>
         </profile>
@@ -917,7 +917,7 @@
             <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">32&quot;</characteristic>
             <characteristic name="M" typeId="fdf7-4209-ca56-2d78">8&quot;</characteristic>
             <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">3</characteristic>
-            <characteristic name="T" typeId="38c4-d745-a54c-15fb">16/10/6</characteristic>
+            <characteristic name="T" typeId="38c4-d745-a54c-15fb">16/8/6</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
           </characteristics>
         </profile>
@@ -1336,7 +1336,7 @@
             <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">32&quot;</characteristic>
             <characteristic name="M" typeId="fdf7-4209-ca56-2d78">8&quot;</characteristic>
             <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">3</characteristic>
-            <characteristic name="T" typeId="38c4-d745-a54c-15fb">14/8/6</characteristic>
+            <characteristic name="T" typeId="38c4-d745-a54c-15fb">14/6/6</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
           </characteristics>
         </profile>
