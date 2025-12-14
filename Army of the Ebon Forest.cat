@@ -23,7 +23,7 @@
         </profile>
         <profile name="Waykeeper Judge" typeId="Abilities" typeName="Abilities" hidden="false" id="f287-ad84-ee65-4304">
           <characteristics>
-            <characteristic name="Description" typeId="4330-1c07-3cee-f7ed">While this unit is alive, no unit in this army ca willingly go berserk. Only Judges may call Exhortation support missions.</characteristic>
+            <characteristic name="Description" typeId="4330-1c07-3cee-f7ed">While this unit is alive, no unit in this army can willingly go berserk. Only Judges may call Exhortation support missions.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -171,12 +171,17 @@
         </infoLink>
         <infoLink name="Resupply" id="da2a-10f4-bbf6-9643" hidden="false" type="rule" targetId="Resupply">
           <modifiers>
-            <modifier type="append" value="6" field="name"/>
+            <modifier type="append" value="(6)" field="name"/>
           </modifiers>
         </infoLink>
         <infoLink name="Personnel Carrier" id="3141-3b4a-c4fb-695b" hidden="false" type="rule" targetId="Personnel Carrier">
           <modifiers>
             <modifier type="append" value="(2, Rear)" field="name"/>
+          </modifiers>
+        </infoLink>
+        <infoLink name="Tow" id="7b5a-1a56-e293-0186" hidden="false" type="rule" targetId="Tow">
+          <modifiers>
+            <modifier type="append" value="(3)" field="name"/>
           </modifiers>
         </infoLink>
       </infoLinks>
@@ -573,6 +578,11 @@
             <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
           </characteristics>
         </profile>
+        <profile name="Made-to-Orders" typeId="Abilities" typeName="Abilities" hidden="false" id="70df-df54-5800-6dba">
+          <characteristics>
+            <characteristic name="Description" typeId="4330-1c07-3cee-f7ed">If depleted, loses its depletion token at the end of the round after winning a close combat.</characteristic>
+          </characteristics>
+        </profile>
       </profiles>
       <infoLinks>
         <infoLink name="Amphibious" id="a4f4-0276-1290-773f" hidden="false" type="rule" targetId="Amphibious"/>
@@ -918,7 +928,7 @@
             <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">32&quot;</characteristic>
             <characteristic name="M" typeId="fdf7-4209-ca56-2d78">8&quot;</characteristic>
             <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">2</characteristic>
-            <characteristic name="T" typeId="38c4-d745-a54c-15fb">14/8/6</characteristic>
+            <characteristic name="T" typeId="38c4-d745-a54c-15fb">14/10/6</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
           </characteristics>
         </profile>
@@ -1171,7 +1181,7 @@
         </profile>
         <profile name="Lugus" typeId="Abilities" typeName="Abilities" hidden="false" id="4eb5-ba6d-c2d6-f59c">
           <characteristics>
-            <characteristic name="Description" typeId="4330-1c07-3cee-f7ed">This unit uses a 40x40mm base. Infantry cannot desant.</characteristic>
+            <characteristic name="Description" typeId="4330-1c07-3cee-f7ed">This unit uses a 40x40mm base.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1216,7 +1226,7 @@
             <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">32&quot;</characteristic>
             <characteristic name="M" typeId="fdf7-4209-ca56-2d78">10&quot;</characteristic>
             <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">3</characteristic>
-            <characteristic name="T" typeId="38c4-d745-a54c-15fb">6/3/1+</characteristic>
+            <characteristic name="T" typeId="38c4-d745-a54c-15fb">5/3/1+</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
           </characteristics>
         </profile>
@@ -1321,7 +1331,8 @@
         </profile>
         <profile name="Chariots" typeId="Abilities" typeName="Abilities" hidden="false" id="767f-af01-d6ee-26bb">
           <characteristics>
-            <characteristic name="Description" typeId="4330-1c07-3cee-f7ed">This unit uses a 40x40mm base and can be depleted as if it were an infantry squad. When landed, unit class counts as Inf (S); it may fire all weapons and enter close combat as if it were infantry. May land in forests and inside of buildings as a squad-sized garrison.</characteristic>
+            <characteristic name="Description" typeId="4330-1c07-3cee-f7ed">This unit uses a 40x40mm base and can be depleted as if it were an infantry squad. When landed, unit class counts as Inf (S); it may fire
+all weapons and enter close combat as if it were infantry. May land in forests and inside of buildings as a squad-sized garrison.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1354,13 +1365,13 @@
             <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">32&quot;</characteristic>
             <characteristic name="M" typeId="fdf7-4209-ca56-2d78">24&quot;</characteristic>
             <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">2</characteristic>
-            <characteristic name="T" typeId="38c4-d745-a54c-15fb">4/4/3</characteristic>
+            <characteristic name="T" typeId="38c4-d745-a54c-15fb">3/2/3</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
           </characteristics>
         </profile>
         <profile name="Backbone" typeId="Abilities" typeName="Abilities" hidden="false" id="9f05-7c9d-23c3-2897">
           <characteristics>
-            <characteristic name="Description" typeId="4330-1c07-3cee-f7ed">Embarked infantry can fire all weapons at stationary accuracy.</characteristic>
+            <characteristic name="Description" typeId="4330-1c07-3cee-f7ed">Embarked units can fire any one non-Melee weapon as if it were a Small Arm and are identified with the vehicle. Units embarked may spot and be spotted by Sense.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1394,7 +1405,7 @@
             <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">32&quot;</characteristic>
             <characteristic name="M" typeId="fdf7-4209-ca56-2d78">32&quot;</characteristic>
             <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">3</characteristic>
-            <characteristic name="T" typeId="38c4-d745-a54c-15fb">3/3/2</characteristic>
+            <characteristic name="T" typeId="38c4-d745-a54c-15fb">2/2/2</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
           </characteristics>
         </profile>
@@ -1448,7 +1459,7 @@
         </profile>
         <profile name="Chien de Chasse" typeId="Abilities" typeName="Abilities" hidden="false" id="5ebb-9273-e25e-bce9">
           <characteristics>
-            <characteristic name="Description" typeId="4330-1c07-3cee-f7ed">Does not break designation when it moves. Designation is broken when the target leaves the aircraft’s frontal arc.</characteristic>
+            <characteristic name="Description" typeId="4330-1c07-3cee-f7ed">Does not break designation when it moves. Designation is broken when the target leaves frontal arc. Counts as E3 in dogfights.</characteristic>
           </characteristics>
         </profile>
       </profiles>
