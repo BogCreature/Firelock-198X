@@ -1098,6 +1098,18 @@ If a plane with Flower of the Atom is the target of an interception, it may not 
         <infoLink name="➤ Sb.92 55-lber Gun - APDS" id="bf92-c510-12d2-0e2e" hidden="false" type="profile" targetId="➤ Sb.92 55-lber Gun - APDS"/>
         <infoLink name="➤ Sb.92 55-lber Gun - HESH" id="9c4f-d72c-291d-39a3" hidden="false" type="profile" targetId="➤ Sb.92 55-lber Gun - HESH"/>
       </infoLinks>
+      <profiles>
+        <profile name="Heavy Tank" typeId="01c2-7972-ee1c-9702" typeName="Unit" hidden="false" id="7ec2-a342-cf9f-0cad">
+          <characteristics>
+            <characteristic name="H" typeId="dec7-cb61-5dcb-432e">2</characteristic>
+            <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">32&quot;</characteristic>
+            <characteristic name="M" typeId="fdf7-4209-ca56-2d78">6&quot;</characteristic>
+            <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">2</characteristic>
+            <characteristic name="T" typeId="38c4-d745-a54c-15fb">16/10/6</characteristic>
+            <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
+          </characteristics>
+        </profile>
+      </profiles>
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="Vauban" hidden="false" id="acbd-5afb-659a-11fa">
       <costs>
