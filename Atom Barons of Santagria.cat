@@ -704,7 +704,7 @@ If a plane with Flower of the Atom is the target of an interception, it may not 
         </profile>
       </profiles>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Prime Mover" hidden="false" id="2a95-1ea6-336b-016b">
+    <selectionEntry type="upgrade" import="true" name="Steam Tractor" hidden="false" id="2a95-1ea6-336b-016b">
       <costs>
         <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="5"/>
       </costs>
@@ -713,7 +713,7 @@ If a plane with Flower of the Atom is the target of an interception, it may not 
         <categoryLink targetId="5c40-9df6-09ae-8bc4" id="8584-ebe9-5940-8da7" primary="false" name="Santagrine"/>
       </categoryLinks>
       <profiles>
-        <profile name="Steam Tractor" typeId="01c2-7972-ee1c-9702" typeName="Unit" hidden="false" id="0743-772b-61b9-3c34">
+        <profile name="Prime Mover" typeId="01c2-7972-ee1c-9702" typeName="Unit" hidden="false" id="0743-772b-61b9-3c34">
           <characteristics>
             <characteristic name="H" typeId="dec7-cb61-5dcb-432e">2</characteristic>
             <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">16&quot;</characteristic>
@@ -1007,7 +1007,7 @@ If a plane with Flower of the Atom is the target of an interception, it may not 
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="VC.44R &quot;Whirlwind&quot;" hidden="false" id="a7ce-b099-624d-3fca" flatten="false">
       <costs>
-        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="40"/>
+        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="35"/>
       </costs>
       <categoryLinks>
         <categoryLink name="Vehicle" hidden="false" id="57f3-f05f-2202-dbbc" targetId="f8a8-fe3f-6c49-17b0" primary="true"/>
@@ -1072,7 +1072,7 @@ If a plane with Flower of the Atom is the target of an interception, it may not 
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="VE.378 &quot;Cataphract&quot;" hidden="false" id="d6f5-24a1-195b-bb04">
       <costs>
-        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="50"/>
+        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="40"/>
       </costs>
       <categoryLinks>
         <categoryLink targetId="f8a8-fe3f-6c49-17b0" id="e6c6-0ff8-40fb-c7a7" primary="true" name="Vehicle"/>

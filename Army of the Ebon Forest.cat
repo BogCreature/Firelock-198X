@@ -1470,7 +1470,7 @@
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="AD-48 &quot;Falconet&quot;" hidden="false" id="0cf6-9384-a004-8a29">
       <costs>
-        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="25"/>
+        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="20"/>
       </costs>
       <categoryLinks>
         <categoryLink targetId="4ac2-0060-160c-d506" id="7784-29f9-a759-1f0d" primary="true" name="Aircraft"/>
@@ -1577,7 +1577,7 @@
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="MD-II &quot;Mist&quot;" hidden="false" id="98c6-7461-e0b3-3f3c">
       <costs>
-        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="50"/>
+        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="40"/>
       </costs>
       <categoryLinks>
         <categoryLink targetId="4ac2-0060-160c-d506" id="2d71-0641-a3f6-d52c" primary="true" name="Aircraft"/>

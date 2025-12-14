@@ -315,7 +315,7 @@ This unit is treated as concealed when targeted by an enemy unit more than 6â€™â
         <categoryLink name="Rygo" hidden="false" id="26a9-c4fc-69cc-2778" targetId="bfeb-680f-c47d-f4dd" primary="false"/>
       </categoryLinks>
       <costs>
-        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="15"/>
+        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="20"/>
       </costs>
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="Guided Mortar Spiders" hidden="false" id="47d7-537b-82fa-92b3">
@@ -371,7 +371,7 @@ This unit is treated as concealed when targeted by an enemy unit more than 6â€™â
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="Laser Team" hidden="false" id="3c39-97b2-4456-83ec">
       <costs>
-        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="20"/>
+        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="15"/>
       </costs>
       <categoryLinks>
         <categoryLink targetId="1348-366f-efec-ce89" id="0802-2b67-4a0c-b710" primary="true" name="Infantry"/>
@@ -406,7 +406,7 @@ This unit is treated as concealed when targeted by an enemy unit more than 6â€™â
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="Chemical Team" hidden="false" id="3186-e176-2c3d-3172">
       <costs>
-        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="25"/>
+        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="20"/>
       </costs>
       <categoryLinks>
         <categoryLink name="Infantry" hidden="false" id="0462-b6b7-5f39-36fb" targetId="1348-366f-efec-ce89" primary="true"/>
@@ -681,7 +681,7 @@ This unit is treated as concealed when targeted by an enemy unit more than 6â€™â
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="P1 &quot;Parallax&quot;" hidden="false" id="7dfa-2837-5344-b4c8">
       <costs>
-        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="40"/>
+        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="35"/>
       </costs>
       <categoryLinks>
         <categoryLink name="Vehicle" hidden="false" id="8589-bebc-38fe-2700" targetId="f8a8-fe3f-6c49-17b0" primary="true"/>
@@ -720,7 +720,7 @@ This unit is treated as concealed when targeted by an enemy unit more than 6â€™â
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="P1A &quot;Perigee&quot;" hidden="false" id="edbd-e73d-55c8-8977">
       <costs>
-        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="40"/>
+        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="35"/>
       </costs>
       <categoryLinks>
         <categoryLink name="Vehicle" hidden="false" id="f830-2d7d-7de6-ee69" targetId="f8a8-fe3f-6c49-17b0" primary="true"/>

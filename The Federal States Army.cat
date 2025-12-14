@@ -52,7 +52,7 @@
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="Expeditionary Command" hidden="false" id="8c12-092e-7f3d-2635">
       <costs>
-        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="10"/>
+        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="15"/>
       </costs>
       <categoryLinks>
         <categoryLink targetId="c2a0-f677-9d01-266d" id="dc8b-1fde-432e-db21" primary="true" name="TACOM"/>
@@ -756,7 +756,7 @@
         </selectionEntry>
       </selectionEntries>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Type 55 &quot;Razorback&quot;" hidden="false" id="1aa5-708d-a8ca-0b67">
+    <selectionEntry type="unit" import="true" name="Type 55M &quot;Razorback-M&quot;" hidden="false" id="1aa5-708d-a8ca-0b67">
       <costs>
         <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="40"/>
       </costs>
@@ -1117,7 +1117,7 @@
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="2M9 &quot;Korenbloem&quot;" hidden="false" id="f0b3-fa5e-37b6-19bc">
       <costs>
-        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="20"/>
+        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="25"/>
       </costs>
       <categoryLinks>
         <categoryLink targetId="f8a8-fe3f-6c49-17b0" id="315e-a3f6-ce6c-874a" primary="true" name="Vehicle"/>
@@ -1588,7 +1588,7 @@
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="SiG-16B &quot;Schroef&quot;" hidden="false" id="c4ac-9ad2-9c60-2856">
       <costs>
-        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="40"/>
+        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="30"/>
       </costs>
       <categoryLinks>
         <categoryLink targetId="4ac2-0060-160c-d506" id="442b-97be-1909-7438" primary="true" name="Aircraft"/>
@@ -1633,7 +1633,7 @@
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="SiG-16 &quot;Rufe&quot;" hidden="false" id="2950-870e-ab0d-8289">
       <costs>
-        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="30"/>
+        <cost name="Points" typeId="5900-2fcc-c85e-3f3e" value="20"/>
       </costs>
       <categoryLinks>
         <categoryLink name="Aircraft" hidden="false" id="8666-1277-c898-a5f4" targetId="4ac2-0060-160c-d506" primary="true"/>
