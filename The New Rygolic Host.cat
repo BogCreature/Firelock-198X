@@ -940,7 +940,7 @@ This unit is treated as concealed when targeted by an enemy unit more than 6â€™â
             <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">32&quot;</characteristic>
             <characteristic name="M" typeId="fdf7-4209-ca56-2d78">10&quot;</characteristic>
             <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">4</characteristic>
-            <characteristic name="T" typeId="38c4-d745-a54c-15fb">16/14/10</characteristic>
+            <characteristic name="T" typeId="38c4-d745-a54c-15fb">16/14/6</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
           </characteristics>
         </profile>
@@ -1239,7 +1239,7 @@ This unit is treated as concealed when targeted by an enemy unit more than 6â€™â
             <characteristic name="S" typeId="f5a5-a413-9ea7-ce4c">32&quot;</characteristic>
             <characteristic name="M" typeId="fdf7-4209-ca56-2d78">10&quot;</characteristic>
             <characteristic name="Q" typeId="a9ce-3831-94f2-8a32">4</characteristic>
-            <characteristic name="T" typeId="38c4-d745-a54c-15fb">12/8/6</characteristic>
+            <characteristic name="T" typeId="38c4-d745-a54c-15fb">14/10/6</characteristic>
             <characteristic name="C" typeId="0354-3bb4-515f-4663"/>
           </characteristics>
         </profile>
@@ -1586,7 +1586,7 @@ This unit is treated as concealed when targeted by an enemy unit more than 6â€™â
             <characteristic name="Type" typeId="9265-2ade-09bd-09d9">CAP</characteristic>
             <characteristic name="M" typeId="e85a-c562-a781-84ab">20&quot;</characteristic>
             <characteristic name="Q" typeId="0103-c752-ce78-b142">4</characteristic>
-            <characteristic name="T" typeId="7ba2-0bd2-bda2-c5fa">4</characteristic>
+            <characteristic name="T" typeId="7ba2-0bd2-bda2-c5fa">3</characteristic>
             <characteristic name="E" typeId="f73d-4838-ecbb-24cd">3</characteristic>
           </characteristics>
         </profile>
